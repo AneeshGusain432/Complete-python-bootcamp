@@ -1,3 +1,5 @@
+#TODO: I WROTE THIS CODE IN THE TERMINAL
+
 object types / data tupes 
 
 bracket[]  curlybraces{}  ()parenthesis
